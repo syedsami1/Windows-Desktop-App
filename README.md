@@ -17,7 +17,7 @@ This task replicates the basic functionality of Google Forms using a Windows Des
 2. **Clone the Repository**:
    - Clone the backend repository from GitHub:
      ```bash
-     git clone <your-backend-repo-url>
+     git clone https://github.com/syedsami1/Windows-Desktop-App.git
     
      ```
 
@@ -39,7 +39,7 @@ This task replicates the basic functionality of Google Forms using a Windows Des
 1. **Clone the Repository**:
    - Clone the frontend repository from GitHub:
      ```bash
-     git clone <your-frontend-repo-url>
+     git clone https://github.com/syedsami1/Windows-Desktop-App.git
     
      ```
 
